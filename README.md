@@ -1,5 +1,5 @@
 # HTML 动态粒子爱心告白网页
-### ❤️ 在线演示地址：https://Aventardo7777.github.io/love-heart-html-demo/
+### ❤️ 在线演示地址：https://Aventardo7777.github.io/heart-beat-animation-py/
 > 点击链接直接在线观看跳动爱心动画，无需本地打开文件
 
 ## 项目概述
@@ -15,7 +15,7 @@
 ## 本地运行
 1. 克隆仓库
 git clone https://github.com/Aventardo7777/love-heart-html-demo.git
-2. 双击打开 爱心代码.html 即可预览动画
+2. 双击打开 heart-animation.html 即可预览动画
 
 ## 项目文件结构
 <img width="721" height="242" alt="image" src="https://github.com/user-attachments/assets/8eb7534b-67d2-4383-8eed-60a32499f76e" />
